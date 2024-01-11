@@ -35,4 +35,5 @@
 
 </body>
 
-</html>
+</html>Make two view file first user.php and second admin.php to redirect after login if user role is admin alse use.
+In php with MySQL code with login using email and password with users table also implemented session.
